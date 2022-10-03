@@ -266,7 +266,7 @@ public class Polynomial {
         // System.out.println(a.evaluate(1));
         // System.out.println(Arrays.toString(Polynomial.takesFile("test.txt").coefficients));
         // System.out.println(Arrays.toString(Polynomial.takesFile("test.txt").powers));
-        a.saveToFile("output.txt");
+//         a.saveToFile("output.txt");
     }
     
 }
